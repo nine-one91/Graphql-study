@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "apollo-server": "^3.8.1",
+    "express": "^4.18.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.5.0"
+  }
+}
